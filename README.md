@@ -257,17 +257,15 @@ Depending on how the scripts are implemented, you may also run them individually
 
 - The dataset is sourced from Kaggle, so authentication may be required for download.
 - The repository is structured to support experimentation, model comparison, and future expansion.
-- Guest sharks can be included later if the team decides to extend the label space.
 
 ---
 
-## Future Improvements
+## Future Improvements Checklist
 
 - Add a Streamlit dashboard
 - Add hyperparameter tuning
 - Add feature importance and interpretability plots
-- Expand to guest sharks
-- Store trained models for reuse in inference
+- Create model zoo for performance reproducibility
 
 ---
 
